@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">AutoSync On Wifi</string>
+    <string name="title_activity_main">AutoSync on Wifi</string>
+    <string name="enable_autosync_act">Enable Auto Sync On Wifi</string>
+
+</resources>
