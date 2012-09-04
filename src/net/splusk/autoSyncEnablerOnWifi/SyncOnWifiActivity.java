@@ -22,6 +22,7 @@ public class SyncOnWifiActivity extends Activity {
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
+    	//Try pack manager instead    	
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         
